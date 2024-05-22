@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ListViewStyle" parent="android:Widget.ListView">
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+
+
+    <style name="MyActionBarStyle" parent="@style/Widget.MaterialComponents.ActionBar.Solid">
+        <item name="background">@drawable/zdj1</item>
+    </style>
+
+
+</resources>
+
